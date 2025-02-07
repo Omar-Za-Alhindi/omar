@@ -1,0 +1,10 @@
+Tests $ Result $ Normal range $ Unit $ Last dated result
+Glucose (Fasting) $ 98 $ 70 - 100 $ mg/dl $ 09/06/2018
+Creatinine $ 0.89 $ 0.50 - 1.30 $ ma/di $ 1.02 09/06/2018
+Uric Acid $ 6.0 $ 3.4 -7.0 $ ma/di $ 4.0 09/06/2018
+Cholesterol (Total) $ 257 $ 125 - 200 $ mg/dl $ 245 #1 09/06/2018
+VLDL Cholesterol (Calculated) $ 37 $ 10 - 40 $ mg/dl $ 24 09/06/2018
+Triglycerides $ 187 $ 40 - 150 $ mg/dl $ me 09/06/2018
+Total Lipids (Calculated) $ 853 $ 450 - 900 $ ma/dl $ 848 09/06/2018
+Alanine Aminotransferase(ALT/SGPT) $ empty $ upto 41 $ V/L $ 100 £1 OF/0G/20 18
+Aspartate Aminotransferase(AST/SGOT) $ +3 $ vote 40 $ UlrL $ 54 Ff 09/06/2018
